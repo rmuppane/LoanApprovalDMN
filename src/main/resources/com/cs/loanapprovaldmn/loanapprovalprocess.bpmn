@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn2:definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.omg.org/bpmn20" xmlns:bpmn2="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:bpsim="http://www.bpsim.org/schemas/1.0" xmlns:drools="http://www.jboss.org/drools" id="_KR2WAcfNEeucFJNvT_1cFg" xsi:schemaLocation="http://www.omg.org/spec/BPMN/20100524/MODEL BPMN20.xsd http://www.jboss.org/drools drools.xsd http://www.bpsim.org/schemas/1.0 bpsim.xsd http://www.omg.org/spec/DD/20100524/DC DC.xsd http://www.omg.org/spec/DD/20100524/DI DI.xsd " exporter="jBPM Process Modeler" exporterVersion="2.0" targetNamespace="http://www.omg.org/bpmn20">
+  <bpmn2:process id="LoanApprovalDMN.loanapprovalprocess" drools:packageName="com.cs.loanapprovaldmn" drools:version="1.0" drools:adHoc="false" name="loanapprovalprocess" isExecutable="true" processType="Public"/>
+  <bpmndi:BPMNDiagram id="_KR3kIMfNEeucFJNvT_1cFg">
+    <bpmndi:BPMNPlane id="_KR3kIcfNEeucFJNvT_1cFg" bpmnElement="LoanApprovalDMN.loanapprovalprocess"/>
+  </bpmndi:BPMNDiagram>
+  <bpmn2:relationship id="_KR3kIsfNEeucFJNvT_1cFg" type="BPSimData">
+    <bpmn2:extensionElements>
+      <bpsim:BPSimData>
+        <bpsim:Scenario xsi:type="bpsim:Scenario" id="default" name="Simulationscenario">
+          <bpsim:ScenarioParameters xsi:type="bpsim:ScenarioParameters"/>
+        </bpsim:Scenario>
+      </bpsim:BPSimData>
+    </bpmn2:extensionElements>
+    <bpmn2:source>_KR2WAcfNEeucFJNvT_1cFg</bpmn2:source>
+    <bpmn2:target>_KR2WAcfNEeucFJNvT_1cFg</bpmn2:target>
+  </bpmn2:relationship>
+</bpmn2:definitions>
