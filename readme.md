@@ -1,4 +1,9 @@
-Repository Init Content
-=======================
+Introduction
+=============
+This project will demonstrate, calling the DMN (Business Rule task) from BPMN process.
 
-Your project description here.
+Versions
+========
+EAP: JBOSS 7.3.3
+RHPAM: 7.10.1
+
