@@ -87,6 +87,12 @@
       <version>7.48.0.Final-redhat-00006</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+			<groupId>org.jbpm</groupId>
+			<artifactId>jbpm-kie-services</artifactId>
+      <version>7.48.0.Final-redhat-00006</version>
+      <scope>test</scope>
+		</dependency>
   </dependencies>
   <build>
     <plugins>
