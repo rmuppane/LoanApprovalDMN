@@ -4,7 +4,8 @@ This project will demonstrate, calling the DMN (Business Rule task) from BPMN pr
 
 Versions
 ========
-EAP: JBOSS 7.3.3
+EAP: JBOSS 7.3.7
+
 RHPAM: 7.10.1
 
 DMN
